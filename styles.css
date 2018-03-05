@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-image:url('static/images/DSCF0486.jpg');
+  background-image:url('./static/DSCF0486.jpg');
   /* Background image is centered vertically and horizontally at all times */
   background-position: center center;
   /* Background image doesn't tile */
